@@ -1,4 +1,5 @@
 #Web Scraping: WUFT
+
 ##What I scraped and what I wanted to get
 I scraped the WUFT News website, specifically the environment section. I wanted to get the article headlines, dates and summaries from the first 39 pages (about 390 articles). This would show the most important environmental topics in Gainesville and discover a trend in what Gainesville environmental reporters at WUFT tend to focus on. It could also showcase some neglected environmental topics in Gainesville.
 ##Steps
