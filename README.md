@@ -2,7 +2,8 @@
 
 ## What I scraped and what I wanted to get
 I scraped the WUFT News website, specifically the environment section. I wanted to get the article headlines, dates and summaries from the first 39 pages (about 390 articles). This would show the most important environmental topics in Gainesville and discover a trend in what Gainesville environmental reporters at WUFT tend to focus on. It could also showcase some neglected environmental topics in Gainesville.
-##Steps
+
+## Steps
 
 ### Step 1 The Fundamentals
 I imported the necessary libraries (Beautiful Soup, requests, time and csv), set my base URL (the first page of the environment section on the WUFT website) and opened a new csv file for writing. I also wrote a header row for my csv, which included "Headings, Dates and Summaries."
